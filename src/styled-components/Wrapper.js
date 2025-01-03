@@ -81,6 +81,7 @@ export const ListFlexContainer = styled.ul`
 export const ArrowIconContainer = styled.div`
   display: flex;
   justify-content: flex-end;
+  cursor: pointer;
 `;
 
 export const FailureViewContainer = styled.div`
