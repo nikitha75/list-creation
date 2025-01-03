@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Oval } from "react-loader-spinner";
+import ClipLoader from "react-spinners/ClipLoader";
 import {
   Button,
   HeadingContainer,
@@ -68,15 +68,7 @@ const Home = () => {
     <div>
       {isLoading ? (
         <Loader>
-          <Oval
-            visible={true}
-            height="80"
-            width="80"
-            color="#3c82f4"
-            ariaLabel="oval-loading"
-            wrapperStyle={{}}
-            wrapperClass=""
-          />
+          <ClipLoader color="#3996ff" size={50} />
         </Loader>
       ) : isLoading === false && isSuccess ? (
         <div>
