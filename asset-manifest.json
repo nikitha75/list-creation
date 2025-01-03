@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/list-creation/static/css/main.8c40b7cb.css",
+    "main.js": "/list-creation/static/js/main.8e9f6882.js",
+    "static/media/failure-view-img.svg": "/list-creation/static/media/failure-view-img.7e4f0b5c786d6b26773158bf9f443537.svg",
+    "index.html": "/list-creation/index.html",
+    "main.8c40b7cb.css.map": "/list-creation/static/css/main.8c40b7cb.css.map",
+    "main.8e9f6882.js.map": "/list-creation/static/js/main.8e9f6882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c40b7cb.css",
+    "static/js/main.8e9f6882.js"
+  ]
+}
